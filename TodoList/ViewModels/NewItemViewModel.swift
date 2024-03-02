@@ -1,0 +1,5 @@
+//
+//  NewItemViewModel.swift
+//
+
+import Foundation
