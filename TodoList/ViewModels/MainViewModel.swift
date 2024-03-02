@@ -1,0 +1,5 @@
+//
+//  MainViewViewModel.swift
+//
+
+import Foundation

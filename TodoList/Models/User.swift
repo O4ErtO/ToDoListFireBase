@@ -1,0 +1,5 @@
+//
+//  User.swift
+//
+
+import Foundation
